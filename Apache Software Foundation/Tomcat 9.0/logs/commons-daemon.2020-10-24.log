@@ -1,0 +1,28 @@
+[2020-10-24 19:58:16] [info]  [12468] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2020-10-24 19:58:18] [info]  [12468] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2020-10-24 19:58:18] [info]  [12468] Service 'Tomcat9' installed
+[2020-10-24 19:58:18] [info]  [12468] Commons Daemon procrun finished
+[2020-10-24 19:58:20] [info]  [ 1172] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2020-10-24 19:58:21] [info]  [ 1172] Updating service...
+[2020-10-24 19:58:21] [info]  [ 1172] Service 'Tomcat9' updated
+[2020-10-24 19:58:21] [info]  [ 1172] Update service finished.
+[2020-10-24 19:58:22] [info]  [ 1172] Commons Daemon procrun finished
+[2020-10-24 19:58:22] [info]  [18988] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2020-10-24 19:58:22] [info]  [18988] Updating service...
+[2020-10-24 19:58:23] [info]  [18988] Service 'Tomcat9' updated
+[2020-10-24 19:58:23] [info]  [18988] Update service finished.
+[2020-10-24 19:58:23] [info]  [18988] Commons Daemon procrun finished
+[2020-10-24 19:58:23] [info]  [14184] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2020-10-24 19:58:23] [info]  [14184] Updating service...
+[2020-10-24 19:58:23] [info]  [14184] Service 'Tomcat9' updated
+[2020-10-24 19:58:23] [info]  [14184] Update service finished.
+[2020-10-24 19:58:23] [info]  [14184] Commons Daemon procrun finished
+[2020-10-24 19:58:24] [info]  [ 9316] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2020-10-24 19:58:24] [info]  [ 9316] Updating service...
+[2020-10-24 19:58:24] [info]  [ 9316] Service 'Tomcat9' updated
+[2020-10-24 19:58:24] [info]  [ 9316] Update service finished.
+[2020-10-24 19:58:24] [info]  [ 9316] Commons Daemon procrun finished
+[2020-10-24 19:58:28] [info]  [15820] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2020-10-24 19:58:29] [info]  [15820] Running 'Tomcat9' Service...
+[2020-10-24 19:58:29] [info]  [12240] Starting service...
+[2020-10-24 19:58:36] [info]  [12240] Service started in 6845 ms.
